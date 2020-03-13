@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedDesign", "ObjectOrientedDesign\ObjectOrientedDesign.csproj", "{1A124320-9E3F-45BA-A132-2AD9ACC2B863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{4C77C6AF-AFC8-479A-8E7E-C2A9135CCAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A124320-9E3F-45BA-A132-2AD9ACC2B863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A124320-9E3F-45BA-A132-2AD9ACC2B863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A124320-9E3F-45BA-A132-2AD9ACC2B863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A124320-9E3F-45BA-A132-2AD9ACC2B863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C77C6AF-AFC8-479A-8E7E-C2A9135CCAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C77C6AF-AFC8-479A-8E7E-C2A9135CCAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C77C6AF-AFC8-479A-8E7E-C2A9135CCAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C77C6AF-AFC8-479A-8E7E-C2A9135CCAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3360A0CC-3B06-4518-BA9D-090CE62F9DA2}
+	EndGlobalSection
+EndGlobal
